@@ -23,5 +23,3 @@ A simple ordering system using React, Redux Toolkit and MongoDB.
 5.  "npm run dev"
 ```
 ## Screenshot
-
-<img src="https://github.com/gokhan94/react-pos-management-system/assets/6280643/e6401c5d-8ab4-4710-acd8-229ce624d604">
