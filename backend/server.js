@@ -19,6 +19,7 @@ const corsOrigin = {
         'http://localhost:3000',
         'https://react-pos-management-system.vercel.app',
         'https://react-pos-management-system-qmcf.vercel.app',
+        'https://khao-piyo.junaidnayeem.in',
     ], 
     credentials:true,            
 }
