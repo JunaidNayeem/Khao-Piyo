@@ -6,7 +6,7 @@ const httpRequest = axios.create({
         "Content-Type": "application/json",
     },
     // baseURL: "http://localhost:8000/api",
-    baseURL: "https://khao-piyob.junaidnayeem.in",
+    baseURL: "https://khao-piyob.junaidnayeem.in/api",
     withCredentials: true,
 })
 
